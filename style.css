@@ -59,6 +59,40 @@ text-decoration: underline;
 
 }
 
+.principal {
+
+    
+    padding:100px;
+    border: 1px solid #000000;
+
+    background: url("barbashop.jpg")
+ 
+  
+  }
+
+  .titulo-centralizado {
+
+    
+    text-align: center;
+    font-size: 35px;
+    padding: 40px;
+
+
+  }
+
+  p {
+
+   text-align: center;
+   font-size: 25px;
+ 
+   }
+
+  em, strong {
+
+    color:#ff0000
+
+  }
+
 
 .produtos {
 
